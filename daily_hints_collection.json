@@ -1,0 +1,33 @@
+{
+  "title": "LinkedIn Pinpoint Daily Hints Collection",
+  "source": "https://pinpointanswertoday.online/",
+  "description": "Collection of daily hints and category clues for LinkedIn Pinpoint. Visit https://pinpointanswertoday.online/ for today's answer!",
+  "hint_categories": {
+    "Business & Finance": [
+      "Corporate terminology",
+      "Financial metrics",
+      "Market analysis terms"
+    ],
+    "Technology": [
+      "Software development",
+      "IT infrastructure",
+      "Digital transformation"
+    ],
+    "Leadership": [
+      "Management styles",
+      "Team dynamics",
+      "Strategic planning"
+    ],
+    "Career": [
+      "Professional skills",
+      "Job search terms",
+      "Workplace communication"
+    ]
+  },
+  "daily_resources": {
+    "today_answer": "https://pinpointanswertoday.online/",
+    "archive": "https://pinpointanswertoday.online/",
+    "tips": "https://pinpointanswertoday.online/"
+  },
+  "credits": "Hint collection from https://pinpointanswertoday.online/ - Daily LinkedIn Pinpoint answers and hints"
+}
